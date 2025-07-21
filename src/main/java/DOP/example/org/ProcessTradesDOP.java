@@ -1,4 +1,4 @@
-package DOP.org;
+package DOP.example.org;
 
 import DOP.Trades.Buy;
 import DOP.Trades.Sell;
