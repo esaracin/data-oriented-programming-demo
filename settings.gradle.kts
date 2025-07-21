@@ -1,2 +1,2 @@
-rootProject.name = "TradeDemo"
+rootProject.name = "data-oriented-programming-demo"
 
